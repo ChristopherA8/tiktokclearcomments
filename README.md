@@ -1,5 +1,7 @@
 # tiktokclearcomments
 
+100% credit to ryan nair
+
 Makes the comment ViewController semi-transparent
 
 To-do:
