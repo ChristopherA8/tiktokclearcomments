@@ -1,4 +1,4 @@
-# tiktokclearcomments
+# TikTok Clear Comments
 
 80% credit to ryan nair
 
